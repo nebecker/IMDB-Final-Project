@@ -1,6 +1,4 @@
 # IMDB-Final-Project
 Nicole Becker
 
-MIS 665
-
-Dec 10, 2019
+You can find my video presentation at 
